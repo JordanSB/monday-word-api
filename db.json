@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "phone": "07912345678",
+      "description": "New Website"
+    },
+    {
+      "id": 2,
+      "first_name": "Peter",
+      "last_name": "Parker",
+      "phone": "07123456789",
+      "description": "Spider Man"
+    }
+  ]
+}
